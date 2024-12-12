@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <a href="LICENSE">
-    <img src="https://github.com/SorcererChiragsingh/Project-Real-Estate-Website/blob/main/Images/MIT%20License.png" alt="MIT License" />
+    <img src="https://github.com/SorcererChiragsingh/Project-Real-Estate-Website/blob/main/assests/images/MIT%20License.png" alt="MIT License" />
   </a>
 </h2>
 
