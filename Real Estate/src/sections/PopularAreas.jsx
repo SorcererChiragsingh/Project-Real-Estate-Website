@@ -5,3 +5,5 @@ export const PopularAreas = () => {
     <div>PopularAreas</div>
   )
 }
+
+export default App
