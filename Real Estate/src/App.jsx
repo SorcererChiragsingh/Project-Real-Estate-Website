@@ -14,6 +14,7 @@ export const App = () => {
   return (
     <>
     <DarkModeProvider>
+      
       <Header />
       <Hero />
       <About  />  
